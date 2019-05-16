@@ -6,7 +6,7 @@
 
  /*!
  * WuWei Blog v1.6.0 (http://startbootstrap.com)
- * Copyright 2016 @WuWeipro
+ * Copyright 2016 @NCU-WuWei
  * Licensed under Apache 2.0 
  */
 

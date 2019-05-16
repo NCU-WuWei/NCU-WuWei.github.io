@@ -1,14 +1,14 @@
 {
     "name": "WuWei-blog",
     "title": "WuWei Blog",
-    "author": "WuWei <WuWeipro@gmail.com>",
+    "author": "WuWei <NCU-WuWei@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://WuWeipro.github.io",
+    "homepage": "http://NCU-WuWei.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/WuWeipro/WuWeipro.github.io"
+        "url": "https://github.com/NCU-WuWei/NCU-WuWei.github.io"
     },
-    "bugs": "https://github.com/WuWeipro/WuWeipro.github.io/issues",
+    "bugs": "https://github.com/NCU-WuWei/NCU-WuWei.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
