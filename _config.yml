@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: NCU-WuWei@gmail.com
 description: "关于程序与设计、黑客与画家 | 吴威，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @WuWei吴威 的个人博客，与你一起发现更大的世界。"
 keyword: "吴威, WuWei吴威, WuWei, 鬼栈, NCU-WuWei, @NCU-WuWei, 吴威的博客, WuWei Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://NCU-WuWei.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: NCU-WuWei.github.io
 
 
 
