@@ -224,7 +224,7 @@
    - 南昌大学优秀应届毕业生荣誉证书
 
 # 技能清单
-- 编程语言：Java/Pyhon/JavaScript/PHP/Objective-C/C
+- 编程语言：Java/Python/JavaScript/PHP/Objective-C/C
 - 操作系统：Win/Linux/MacOS
 - Web服务器：Nginx/Tomcat/Apache/WebLogic
 - 常用框架：Spring Boot/Spring Cloud Alibaba/Feign/Nacos/Gateway/Zuul/Ribbon/Hystrix/MyBatis/RabbitMQ/Kafka/Shiro/Netty
