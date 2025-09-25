@@ -254,8 +254,8 @@
 - 操作系统：Win/Linux/MacOS
 - Web服务器：Nginx/Tomcat/Apache/WebLogic
 - 常用框架：Spring Boot/Spring Cloud Alibaba/Feign/Nacos/Gateway/Zuul/Ribbon/Hystrix/MyBatis/RabbitMQ/Kafka/Shiro/Netty
-- 开发工具：Eclipse/IDEA/Xcode/PowerDesigner
-- 数据库相关：MySQL/PostgreSQL/MongoDB/Oracle/SQLite
+- 开发工具：Eclipse/IDEA/Xcode
+- 数据库相关：MySQL/PostgreSQL/MongoDB/Oracle/SQLite/PowerDesigner
 - 版本管理、文档和自动化部署工具：Jenkins/Maven/Docker/Svn/Git/禅道(ZenTao)/Confluence
 - 语言能力：普通话/英语
 
