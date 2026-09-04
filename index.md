@@ -261,10 +261,11 @@
 
 # 技能清单
 - 编程语言：Java/Python/JavaScript/PHP/Objective-C/C
+- AI辅助开发: Claude Code/Cursor/Codex
 - 操作系统：Windows/Linux/MacOS
 - Web服务器：Nginx/Tomcat/Apache/WebLogic
 - 常用框架：Spring Boot/Spring Cloud Alibaba/Feign/Nacos/Gateway/Zuul/Ribbon/Hystrix/MyBatis/RabbitMQ/Kafka/Shiro/Netty
-- 开发工具：Eclipse/IDEA/Xcode
+- 开发工具：Eclipse/IDEA/Xcode/VS Code
 - 数据库相关：MySQL/PostgreSQL/MongoDB/Oracle/SQLite/PowerDesigner
 - 版本管理、文档和自动化部署工具：Jenkins/Maven/Docker/Svn/Git/禅道(ZenTao)/Confluence
 
